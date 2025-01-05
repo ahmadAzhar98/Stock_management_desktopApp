@@ -1,1 +1,1 @@
-# Stock_management_desktopApp
+# Stock Management App
